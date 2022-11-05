@@ -1,15 +1,14 @@
 # SQL-Project5-Payroll_Calculation
 
-DESCRIPTION
+**DESCRIPTION**
 An HR of the company wants to analyze the performance of the employees and calculate their salary.
 
 
-Objective:
+**Objective:**
 The database design helps to retrieve the employees’ details based on certain criteria which are listed below.
 
 
-Tasks to be performed:
-
+**Tasks to be performed:**
 - Write a query to create an employee table and a department table.
 - Write a query to insert values in the employee and department tables.
 - Write a query to create a view of the employee and department tables.
